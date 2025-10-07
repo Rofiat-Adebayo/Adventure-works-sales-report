@@ -5,7 +5,7 @@
 - [Process](#process)
 -[Tools & Technologies](#tools-&-technologies)
 - [Key Insights](#key-insights)
-- [Challenges & Solution](challenges-&-solution)
+- [Challenges & Solution](#challenges-&-solution)
 
 ### Project Overview
  This project explores sales and customer performance using the Adventure Works dataset in Power BI. It highlights revenue trends, customer segments, and product-level insights through an interactive dashboard. The goal is to transform raw data into actionable insights that support business decision-making and performance tracking.
