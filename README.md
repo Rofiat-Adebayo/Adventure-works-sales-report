@@ -9,6 +9,7 @@
 
 ### Project Overview
  This project explores sales and customer performance using the Adventure Works dataset in Power BI. It highlights revenue trends, customer segments, and product-level insights through an interactive dashboard. The goal is to transform raw data into actionable insights that support business decision-making and performance tracking.
+ 
 [adventure work analysis.pdf](https://github.com/user-attachments/files/22881865/adventure.work.analysis.pdf)
 
  ### Objective
