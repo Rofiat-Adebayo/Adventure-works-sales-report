@@ -11,7 +11,7 @@
  This project explores sales and customer performance using the Adventure Works dataset in Power BI. It highlights revenue trends, customer segments, and product-level insights through an interactive dashboard. The goal is to transform raw data into actionable insights that support business decision-making and performance tracking.
 
 <img width="683" height="416" alt="exec" src="https://github.com/user-attachments/assets/f0f0a61c-9819-4de3-a6ec-38a0f4c921d0" />
-![Dashboard]
+
 ### Objective
  - To perform an in-depth analysis of Adventure Works’ sales data to uncover trends, patterns, and performance drivers.  
 - To evaluate customer segments and identify high-value groups contributing most to revenue growth.
